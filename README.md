@@ -1,82 +1,61 @@
 🚦 AIoT Traffic Predictor
-Prédiction intelligente du trafic routier en temps réel
-📌 Description
+Smart AIoT-based Traffic Prediction System
+<p align="center"> <img src="https://img.shields.io/badge/AI-IoT-blue?style=for-the-badge&logo=brain&logoColor=white"/> <img src="https://img.shields.io/badge/SmartCity-Innovation-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Maloani/AIoT-Traffic-Predictor?style=for-the-badge"/> <img src="https://img.shields.io/github/forks/Maloani/AIoT-Traffic-Predictor?style=for-the-badge"/> </p>
+🚀 Overview
 
-AIoT Traffic Predictor est une application innovante combinant les technologies de l’Intelligence Artificielle (IA) et de l’Internet des Objets (IoT) pour analyser et prédire l’état du trafic routier en temps réel.
+AIoT Traffic Predictor is an intelligent system that combines Artificial Intelligence (AI) and Internet of Things (IoT) to predict road traffic conditions in real time.
 
-Elle s’inscrit dans une logique de Smart City, en permettant d’anticiper les conditions de circulation (trafic fluide ou congestionné) à partir de données simples ou issues de capteurs intelligents.
+Designed for Smart Cities, it enables proactive traffic management and decision-making.
 
-🎯 Objectifs
-🚀 Prédire l’état du trafic en temps réel
-🏙️ Optimiser la gestion de la mobilité urbaine
-🚗 Réduire les embouteillages
-🎯 Fournir un outil d’aide à la décision rapide et efficace
-⚙️ Fonctionnalités
-🚗 Saisie dynamique du volume de trafic
-🤖 Prédiction automatique basée sur un modèle IA
-🟢 Indication de trafic fluide (circulation normale)
-🔴 Détection des embouteillages
-🎨 Interface moderne, ergonomique et intuitive
-⚡ Résultats instantanés
-🧠 Logique du système
+🎯 Key Features
+🚗 Traffic input simulation
+🤖 AI-based prediction
+🟢 Smooth traffic detection
+🔴 Congestion alert system
+⚡ Instant results
+🎨 Modern UI/UX
+🖼️ Live Preview
+<p align="center"> <img src="im1.JPG" width="260"/> <img src="im2.JPG" width="260"/> <img src="im.JPG" width="260"/> </p>
+🧠 System Logic
+Low Traffic → Smooth Flow
+High Traffic → Congestion Detected
 
-L’application repose sur un modèle de classification simple :
+🔬 Future upgrades:
 
-Faible trafic → Circulation fluide
-Trafic élevé → Embouteillage détecté
-
-🔬 Perspectives d’évolution :
-
-Intégration du Machine Learning (Random Forest, LSTM…)
-Exploitation de données IoT réelles (capteurs, GPS, caméras)
-🖥️ Interface utilisateur
-
-L’application propose une interface épurée et facile à utiliser :
-
-Champ de saisie du trafic
-Bouton de prédiction
-Affichage visuel du résultat avec indicateurs
-📸 Aperçu de l'application
-<h3 align="center">Interface & Résultats</h3> <p align="center"> <img src="im1.JPG" width="260" alt="Trafic fluide"/> <img src="im2.JPG" width="260" alt="Embouteillage"/> <img src="im.JPG" width="260" alt="Interface de saisie"/> </p>
-📊 Cas d’utilisation
-🟢 Trafic fluide
-Entrée faible (ex : 12)
-Résultat : circulation normale
-🔴 Embouteillage
-Entrée élevée (ex : 1200)
-Résultat : trafic dense avec ralentissements
-🛠️ Technologies utilisées
-HTML5 / CSS3 → Interface utilisateur moderne
-JavaScript → Logique dynamique
-IA → Modélisation prédictive (simulée ou réelle)
-IoT → Intégration future de données temps réel
-🚀 Améliorations futures
-📍 Intégration de Google Maps API
-📡 Données en temps réel via capteurs IoT
-🧠 Modèles IA avancés (Deep Learning)
-📊 Dashboard analytique intelligent
-📱 Application mobile (Android / Flutter)
-🌍 Cas d’utilisation
-🏙️ Smart City (gestion du trafic urbain)
-🚕 Projet Taxi Moya (RDC)
-🚦 Systèmes de transport intelligents
-📈 Analyse prédictive en temps réel
-👨‍💻 Auteur
+Machine Learning (LSTM, Random Forest)
+Real IoT Data (GPS, sensors, cameras)
+🛠️ Tech Stack
+Technology	Role
+HTML5 / CSS3	UI Design
+JavaScript	Logic & Interaction
+AI Concepts	Prediction Model
+IoT	Future Data Integration
+📊 Use Cases
+🌍 Smart Cities
+🚦 Traffic Management Systems
+🚕 Taxi Moya Project (DRC)
+📈 Predictive Analytics
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Maloani&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maloani&theme=radical"/> </p>
+🧩 Future Roadmap
+📍 Google Maps API integration
+📡 Real-time IoT sensors
+🧠 Deep Learning models
+📊 Advanced analytics dashboard
+📱 Mobile application
+👨‍💻 Author
 
 Maloani Saidi Georges
 
-Expert Big Data | IA | IoT
-CEO – MS Solutions Lab
-Doctorant en Informatique
+<p> <a href="https://github.com/Maloani"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
+⭐ Support the Project
 
-🔗 GitHub : https://github.com/Maloani
+If you like this project:
 
-⭐ Contribution
+👉 ⭐ Star the repo
+👉 🍴 Fork it
+👉 🚀 Contribute
 
-Les contributions sont les bienvenues !
+⚡ Vision
 
-👉 N’hésitez pas à :
-
-Forker le projet
-Proposer des améliorations
-Ouvrir des issues
+Building the future of AI-powered Smart Mobility in Africa 🌍
